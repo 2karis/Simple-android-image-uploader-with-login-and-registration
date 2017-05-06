@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ooza</string>
+    <string-array name="image_ids">
+        <item>@drawable/images</item>
+        <item>@drawable/login</item>
+        <item>@drawable/register</item>
+        <item>@drawable/upload</item>
+
+    </string-array>
+    <string name="action_home">Home</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_sample">sample</string>
+
+</resources>
